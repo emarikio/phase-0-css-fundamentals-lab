@@ -3,3 +3,35 @@ body {
   height: 100%;
   margin: 0;
 }
+h1{
+  margin-left: 40%;
+}
+img{
+  margin-left: 25%;
+}
+nav{
+  margin-left: 35%;
+  a{
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: grey;
+  }
+}
+section{
+  figcaption{
+    font-size: small;
+    margin-left: 35%;
+  }
+  p{
+    margin-left: 30%;
+    width: 800px;
+    }
+}
+#details{
+  div{
+    float: left;
+    margin-left: 15%;
+    border-bottom-width: 25%;
+    background-color: red;
+  }
+}
